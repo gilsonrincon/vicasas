@@ -1,6 +1,6 @@
 {
   "name": "vicasas",
-  "app_id": "",
+  "app_id": "ed2b5228",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
